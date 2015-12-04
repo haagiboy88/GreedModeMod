@@ -11,6 +11,6 @@ Items removed from greed pools: Godhead, Tech.x, Shovel, Placebo, Chaos card.
 
 Items added: None.
 
-The items that was removed was decided to have too big of an impact on the race.
+The items that was removed was decided to potentially have too big of an impact on a race.
 
 -Haagiboy88-
