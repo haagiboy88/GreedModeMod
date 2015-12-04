@@ -9,7 +9,7 @@ To install the mod copy the achievements.xml, itempools.xml, items.xml, players.
 
 v0.1
 
-Items removed from greed pools: Godhead, Tech.x, Shovel, Placebo, Chaos card.
+Items removed from greed pools: Godhead, Tech.x, Shovel, Placebo, Chaos card and broken remote.
 
 Items added: None.
 
