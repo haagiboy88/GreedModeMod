@@ -11,7 +11,7 @@ To install the mod copy the achievements.xml, itempools.xml, items.xml, players.
 
 Latest release:
 
-Items removed from greed pools: Godhead, Tech.x, Shovel, Placebo, Cursed eye, Blank Card, Chaos card and broken remote.
+Items removed from greed pools: Godhead, Tech.x, Shovel, Pinking shears, Placebo, Cursed eye, Blank Card, Chaos card and broken remote.
 
 Items added: Lil'brim added to greedTreasure pool.
 
