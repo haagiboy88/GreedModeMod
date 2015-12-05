@@ -1555,8 +1555,6 @@
 		
 		<Item DecreaseBy="1" Id="315" RemoveOn="0.1" Weight="1" />
 		
-		<Item DecreaseBy="1" Id="316" RemoveOn="0.1" Weight="1" />
-		
 		<Item DecreaseBy="1" Id="317" RemoveOn="0.1" Weight="1" />
 		
 		<Item DecreaseBy="1" Id="318" RemoveOn="0.1" Weight="1" />
