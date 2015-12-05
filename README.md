@@ -13,7 +13,7 @@ Latest release:
 
 Items removed from greed pools: Godhead, Tech.x, Shovel, Placebo, Cursed eye, Chaos card and broken remote.
 
-Items added: None.
+Items added: Lil'brim added to greedTreasure pool.
 
 The items that was removed was decided to potentially have too big of an impact on a race.
 
