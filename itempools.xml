@@ -1677,8 +1677,6 @@
 		
 		<Item DecreaseBy="1" Id="102" RemoveOn="0.1" Weight="1" />
 		
-		<Item DecreaseBy="1" Id="107" RemoveOn="0.1" Weight="1" />
-		
 		<Item DecreaseBy="1" Id="120" RemoveOn="0.1" Weight="1" />
 		
 		<Item DecreaseBy="1" Id="124" RemoveOn="0.1" Weight="1" />
