@@ -29,7 +29,7 @@
 	<card description="???" hud="22_TheJoker" id="27" name="Joker" greedmode="false" />
 	<rune achievement="89" description="Destruction" id="28" name="Hagalaz" />
 	<rune achievement="90" description="Abundance" id="29" name="Jera" />
-	<rune achievement="277" description="Passage" id="30" name="Ehwaz" />
+	<rune achievement="277" description="Passage" id="30" name="Ehwaz" greedmode="false" />
 	<rune achievement="92" description="Purity" id="31" name="Dagaz" />
 	<rune achievement="93" description="Vision" id="32" name="Ansuz" />
 	<rune achievement="94" description="Change" id="33" name="Perthro" />
