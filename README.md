@@ -11,6 +11,8 @@ To install the mod copy the rooms folder, achievements.xml, itempools.xml, items
 
 Latest release:
 
+Angel rooms are now guaranteed to have an item.
+
 Items removed from greed pools: Godhead, Tech.x, Shovel, Pinking shears, Placebo, Cursed eye, Blank Card, Chaos card and broken remote.
 
 Items added: Lil'brim added to greedTreasure pool.
