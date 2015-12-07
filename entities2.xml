@@ -2065,7 +2065,7 @@
 	<entity id="405" variant="1" name="Rag Man's Head" baseHP="25" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="10" collisionRadius="20" friction="1" numGridCollisionPoints="12" shadowSize="16" portrait="83" anm2path="405.001_Ragman_Rolling_Head.anm2">
 		<gibs amount="6" blood="1" bone="1" eye="0" gut="1" large="1" />
 	</entity>
-	<entity id="406" variant="0" name="Ultra Greed" baseHP="1500" stageHP="0" boss="1" bossID="62" champion="0" collisionDamage="2" collisionMass="50" collisionRadius="25" friction="1" numGridCollisionPoints="40" shadowSize="60" portrait="84" anm2path="406.000_UltraGreed.anm2">
+	<entity id="406" variant="0" name="Ultra Greed" baseHP="1000" stageHP="0" boss="1" bossID="62" champion="0" collisionDamage="2" collisionMass="50" collisionRadius="25" friction="1" numGridCollisionPoints="40" shadowSize="60" portrait="84" anm2path="406.000_UltraGreed.anm2">
 		<gibs amount="6" blood="1" bone="1" eye="0" gut="1" large="1" />
 	</entity>
 	<entity id="407" variant="0" name="Hush" baseHP="6666" stageHP="0" boss="1" bossID="63" champion="0" collisionDamage="1" collisionMass="1000" collisionRadius="100" friction="1" numGridCollisionPoints="40" shadowSize="0" portrait="85" anm2path="407.000_Hush.anm2">
