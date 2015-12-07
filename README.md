@@ -17,7 +17,7 @@ Items removed from greed pools: Godhead, Tech.x, Shovel, Pinking shears, Placebo
 
 Items added: Lil'brim added to greedTreasure pool.
 
-Ultra greed health changed from 3500 to 1500
+Ultra greed health changed from 3500 to 1000
 
 The items that was removed was decided to potentially have too big of an impact on a race.
 
